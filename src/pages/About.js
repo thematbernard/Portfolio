@@ -9,7 +9,9 @@ function About() {
       <h1> A little bit about me!</h1>
 
       <li> Oringally from Florida I studied Health Sciences, working in a Hospital
-        for a few years I realized my passion was not there. </li>
+        for a few years I realized my passion was not there. I wanted to continue to learn
+        and grow and the opportunites weren't there in my current field. </li>
+        
       <li> Completed a bridge program at clemson condension the 4 years
           of undergrad into 1 year and fell in love with programming.
       </li>
