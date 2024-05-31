@@ -29,8 +29,9 @@ function About() {
         Engineers for Developing Communities, where we created a website 
         (check out my projects)
       </li>
-      <li> Great leader and excellent listener, passionate about seeing things 
-        through from start to finish
+      <li> Great leader and excellent team player, passionate about seeing things 
+        through from start to finish and looking forward to being part of a dynamic team
+        to solve problems and create solutions.
       </li>
 
       <div className="education">
