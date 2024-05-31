@@ -18,6 +18,11 @@ export const ProjectList = [
         name: "2D-game-engine",
         image: gameEngine,
         link: "https://github.com/thematbernard/2D-game-engine",
+    },
+    {
+        name: "Portfolio",
+        image: portfolio,
+        link: "https://github.com/thematbernard/Portfolio",
     }
     
 ];
