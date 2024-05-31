@@ -17,6 +17,7 @@ function App() {
           <Route path="/projects" exact Component={Projects}/>
           <Route path="/about" exact Component={About}/>
           <Route path="/contact" exact Component={Contact}/>
+          <Route path="/Portfolio" exact Component={Home}/>
         </Routes>
         <Footer />
       </BrowserRouter>
