@@ -11,9 +11,14 @@ function About() {
       <li> Oringally from Florida I studied Health Sciences, working in a Hospital
         for a few years I realized my passion was not there. I wanted to continue to learn
         and grow and the opportunites weren't there in my current field. </li>
-        
-      <li> Completed a bridge program at clemson condension the 4 years
+
+      <li> Completed a bridge program at Clemson Unversity that condensed the 4 years
           of undergrad into 1 year and fell in love with programming.
+      </li>
+
+      <li> The bridge program consisted of all the fundamentals of programming indluding:
+        Memory management, structure, syntax, object oriented programming, and data structures and
+        algorithms (hopefully which I have displayed on this website).
       </li>
       <li> I enjoy working out, playing videogames, solving puzzles and playing chess.
       </li>
