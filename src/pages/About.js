@@ -44,7 +44,7 @@ function About() {
       </div>
 
       <div className="resume">
-      <Link to="https://drive.google.com/file/d/1l7zEkAO9SYWuSF62fnaKh_wZTivrDxhW/view" target="_blank">
+      <Link to="https://drive.google.com/file/d/12LdC0-Z8peGSsTQLtQlUEwtjMQWqvI1B/view" target="_blank">
           <button>Take a look at my Resume! </button>
         </Link>
       </div>
