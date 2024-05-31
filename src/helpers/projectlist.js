@@ -7,7 +7,7 @@ export const ProjectList = [
     {
         name: "Engagement Hub",
         image: menu,
-        link: "https://github.com/CEDC2009/SRW_Virtual_Engagement_Hub",
+        link: "https://github.com/thematbernard/CEDCKiosk",
     },
     {
         name: "Color Changer",
