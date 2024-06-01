@@ -8,11 +8,10 @@ function About() {
     <div className="about">
       <h1> A little bit about me!</h1>
 
-      <li> Oringally from Florida I studied Health Sciences, working in a Hospital
-        for a few years I realized my passion was not there. I wanted to continue to learn
-        and grow and the opportunites weren't there in my current field. </li>
+      <li> Oringally from Florida, I completed my bachelors in Health Sciences and then worked in a Hospital
+        for a few years. </li>
 
-      <li> Completed a bridge program at Clemson Unversity that condensed the 4 years
+      <li> Completed the bridge program at Clemson Unversity that condensed the 4 years
           of undergrad into 1 year and fell in love with programming.
       </li>
 
@@ -20,14 +19,14 @@ function About() {
         Memory management, structure, syntax, object oriented programming, and data structures and
         algorithms (hopefully which I have displayed on this website).
       </li>
-      <li> I enjoy working out, playing videogames, solving puzzles and playing chess.
+      <li> I enjoy working out, playing video games, solving puzzles and playing chess.
       </li>
       <li> Professional coding journey started 2 years ago when I became the 
         C++ Teachers Assistant for a professor at Clemson.
       </li>
-      <li> Gained relative experience when starting an internship with Clemson 
+      <li> Gained relative experience after starting an internship with Clemson 
         Engineers for Developing Communities, where we created a website 
-        (check out my projects)
+        (check out my projects).
       </li>
       <li> Great leader and excellent team player, passionate about seeing things 
         through from start to finish and looking forward to being part of a dynamic team
