@@ -16,7 +16,7 @@ export const ProjectList = [
         link: "https://github.com/thematbernard/CEDCKiosk",
     },
     {
-        name: "Base Set Pokemon Price Checker",
+        name: "Pokemon Price Checker",
         image: changer,
         link: "https://github.com/thematbernard/BaseSetPriceChecker/tree/main",
     },
@@ -30,6 +30,4 @@ export const ProjectList = [
         image: gameEngine,
         link: "https://github.com/thematbernard/2D-game-engine",
     }
-    
-    
 ];
