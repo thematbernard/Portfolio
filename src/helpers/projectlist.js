@@ -2,7 +2,7 @@ import menu from "../assets/MenuPic.PNG"
 import colorChanger from "../assets/colorchanger.PNG"
 import gameEngine from "../assets/python.png"
 import portfolio from "../assets/portfolio.PNG"
-import changer from "../assets/price checker.PNG"
+import changer from "../assets/pricechecker.PNG"
 
 export const ProjectList = [
     {
@@ -16,7 +16,7 @@ export const ProjectList = [
         link: "https://github.com/thematbernard/CEDCKiosk",
     },
     {
-        name: "Pokemon Base Set Color Changer",
+        name: "Base Set Pokemon Price Checker",
         image: changer,
         link: "https://github.com/thematbernard/BaseSetPriceChecker/tree/main",
     },
