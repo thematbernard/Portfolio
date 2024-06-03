@@ -30,6 +30,4 @@ export const ProjectList = [
         image: gameEngine,
         link: "https://github.com/thematbernard/2D-game-engine",
     }
-    
-    
 ];
