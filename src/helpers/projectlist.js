@@ -2,12 +2,23 @@ import menu from "../assets/MenuPic.PNG"
 import colorChanger from "../assets/colorchanger.PNG"
 import gameEngine from "../assets/python.png"
 import portfolio from "../assets/portfolio.PNG"
+import changer from "../assets/price checker.PNG"
 
 export const ProjectList = [
+    {
+        name: "Portfolio",
+        image: portfolio,
+        link: "https://github.com/thematbernard/Portfolio",
+    },
     {
         name: "Engagement Hub",
         image: menu,
         link: "https://github.com/thematbernard/CEDCKiosk",
+    },
+    {
+        name: "Pokemon Base Set Color Changer",
+        image: changer,
+        link: "https://github.com/thematbernard/BaseSetPriceChecker/tree/main",
     },
     {
         name: "Color Changer",
@@ -18,10 +29,5 @@ export const ProjectList = [
         name: "2D-game-engine",
         image: gameEngine,
         link: "https://github.com/thematbernard/2D-game-engine",
-    },
-    {
-        name: "Portfolio",
-        image: portfolio,
-        link: "https://github.com/thematbernard/Portfolio",
     }
 ];
