@@ -8,7 +8,7 @@ function About() {
     <div className="about">
       <h1> A little bit about me!</h1>
 
-      <li> Oringally from Florida, I completed my bachelors in Health Sciences and then worked in a Hospital
+      <li> Originally from Florida, I completed my bachelors in Health Sciences and then worked in a Hospital
         for a few years. </li>
 
       <li> Completed the bridge program at Clemson Unversity that condensed the 4 years
