@@ -3,6 +3,8 @@ import colorChanger from "../assets/colorchanger.PNG"
 import gameEngine from "../assets/python.png"
 import portfolio from "../assets/portfolio.PNG"
 import changer from "../assets/pricechecker.PNG"
+import bird from "../assets/flappybird.PNG"
+import tictactoe from "../assets/tictactoe.PNG"
 
 export const ProjectList = [
     {
@@ -29,5 +31,15 @@ export const ProjectList = [
         name: "2D-game-engine",
         image: gameEngine,
         link: "https://github.com/thematbernard/2D-game-engine",
+    },
+    {
+        name: "Flappy Bird Clone",
+        image: bird,
+        link: "https://github.com/thematbernard/FlappyBird/tree/main/FlappyBird"
+    },
+    {
+        name: "Tic-Tac-Toe Clone",
+        image: tictactoe,
+        link: "https://github.com/thematbernard/TicTacToe/tree/main/TicTacToe"
     }
 ];
