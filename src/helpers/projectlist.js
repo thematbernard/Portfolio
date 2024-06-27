@@ -5,6 +5,7 @@ import portfolio from "../assets/portfolio.PNG"
 import changer from "../assets/pricechecker.PNG"
 import bird from "../assets/flappybird.PNG"
 import tictactoe from "../assets/tictactoe.PNG"
+import plumesproject from "../assets/plumesproject.png"
 
 export const ProjectList = [
     {
@@ -16,6 +17,11 @@ export const ProjectList = [
         name: "Engagement Hub",
         image: menu,
         link: "https://github.com/thematbernard/CEDCKiosk",
+    },
+    {
+        name: "Sinks & Plumes",
+        image: plumesproject,
+        link: "https://www.youtube.com/watch?v=HnKkuHEGr4s",
     },
     {
         name: "Pokemon Price Checker",
