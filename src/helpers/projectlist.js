@@ -6,6 +6,7 @@ import changer from "../assets/pricechecker.PNG"
 import bird from "../assets/flappybird.PNG"
 import tictactoe from "../assets/tictactoe.PNG"
 import plumesproject from "../assets/plumesproject.png"
+import savethelake from "../assets/gamepic1.png"
 
 export const ProjectList = [
     {
@@ -22,6 +23,11 @@ export const ProjectList = [
         name: "Sinks & Plumes",
         image: plumesproject,
         link: "https://www.youtube.com/watch?v=HnKkuHEGr4s",
+    },
+    {
+        name: "Save The Lake",
+        image: savethelake,
+        link: "https://github.com/thematbernard/SaveTheLake/tree/main",
     },
     {
         name: "Pokemon Price Checker",
